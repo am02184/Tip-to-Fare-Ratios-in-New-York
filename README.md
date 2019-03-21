@@ -1,5 +1,3 @@
-# Tip-to-Fare-Ratios-in-New-York
-A subset of data of Median Tip-to-Fare ratios in New York city
 <!doctype html>
 <html lang="en">
     <head>
